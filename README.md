@@ -1,4 +1,4 @@
-# # Sales Forecasting Project
+# Sales Forecasting Project
 
 ## Overview
 This project aims to forecast sales using multiple models, including statistical, machine learning, and deep learning techniques. The dataset includes historical sales data along with external factors such as holidays, oil prices, and promotions.
